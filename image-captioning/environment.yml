@@ -1,0 +1,4 @@
+name: image_captioning
+dependencies:
+  - tensorflow
+  - keras
